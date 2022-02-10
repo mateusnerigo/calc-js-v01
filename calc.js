@@ -103,8 +103,8 @@ function reset() {
 }
 
 function calculateVisor() {
-    // console.clear();
-    //visor.value = eval(upVisor.value) || 0;
+    console.clear();
+    visor.value = eval(upVisor.value) || 0;
 }
 
 function verifyVisor() {
